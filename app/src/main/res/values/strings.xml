@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Create-Notifications-App</string>
+    <string name="send_the_notification">Send the Notification</string>
+    <string name="enter_a_message">Enter a Message</string>
+    <string name="send_a_notification_with_a_chennel">Send a Notification with a Channel</string>
+    <string name="send_a_notification_without_a_chennel">Send a Notification Without a Channel</string>
+</resources>
